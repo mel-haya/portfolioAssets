@@ -2,7 +2,7 @@
 	"projects": [{
 			"name": "Niloom,ai",
 			"description": "Niloom is the first platform that harnesses GenAI within the spatial computing ecosystem to help you ideate, create, live collaborate, and prototype sophisticated AR / VR content",
-			"img": "",
+			"img": "https://github.com/mel-haya/portfolioAssets/blob/main/img/niloomDemo.png?raw=true",
 			"skills": ["VueJs", "Tailwind", "Cypress"],
 			"live": "https://niloom.ai"
 		}
