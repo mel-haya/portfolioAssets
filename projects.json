@@ -1,0 +1,10 @@
+{
+	"projects": [{
+			"name": "Niloom,ai",
+			"description": "Niloom is the first platform that harnesses GenAI within the spatial computing ecosystem to help you ideate, create, live collaborate, and prototype sophisticated AR / VR content",
+			"img": "https://github.com/mouad-halli/Hallis-BookShop/blob/main/readme-imgs/cart-computer.PNG?raw=true",
+			"skills": ["VueJs", "Tailwind", "Cypress"],
+			"live": "https://niloom.ai"
+		}
+	]
+}
